@@ -4,7 +4,7 @@
   border: rgb(209, 107, 107) 3px;
   border-style: double dotted;
   border-radius: 40px;
-  /* background: linear-gradient(45deg, #ff00003a, #ff55001c, #ff00aa33); */
+  background: linear-gradient(45deg, #ff00003a, #ff55001c, #ff00aa33);
 
   animation: slideIn 4s ease-out;
 }
