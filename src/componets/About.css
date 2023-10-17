@@ -1,0 +1,28 @@
+.about {
+  margin: 20vh;
+  padding: 15px;
+  border: rgb(209, 107, 107) 3px;
+  border-style: double dotted;
+  border-radius: 40px;
+  background: linear-gradient(45deg, #ff00003a, #ff55001c, #ff00aa33);
+
+  animation: slideIn 4s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-130%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@media (max-width: 600px) {
+  .about {
+    margin: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background: linear-gradient(45deg, #ff00c33a, #e618c01c, #ff00dd8c);
+  }
+}

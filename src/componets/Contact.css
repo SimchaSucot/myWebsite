@@ -1,0 +1,38 @@
+.containerContact {
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.155);
+}
+.img {
+  height: 4em;
+  border-radius: 30px;
+  margin: 30px;
+  transition: transform 0.5s ease-in-out;
+}
+.img:hover {
+  transform: scale(1.1);
+}
+
+#fixedButton {
+  position: fixed;
+  top: 50%;
+  left: -25px;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+@media (max-width: 600px) {
+  .containerContact {
+    padding: 1px;
+    background-color: rgba(255, 0, 140, 0.352);
+  }
+  .img {
+    height: 2em;
+    margin: 2px;
+  }
+  .gmail{
+    display: none;
+  }
+  #fixedButton {
+    left: -15px;
+  }
+}
