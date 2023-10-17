@@ -9,7 +9,7 @@
   animation: slideIn 4s ease-out;
 }
 
-@keyframes slideIn {
+@keyframes slideIn{
   from {
     transform: translateX(-130%);
   }
