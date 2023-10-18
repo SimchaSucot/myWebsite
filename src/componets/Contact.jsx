@@ -3,6 +3,7 @@ import imgWhatsApp from "/whatsApp.png";
 import imgLinkedin from "/linkedin-icon.png";
 import imgEmail from "/email_icon.png";
 import imgGithub from "/github_icon.png";
+import imgPhone from "/phone_icon.jpg"
 
 function Contact() {
   return (
@@ -21,6 +22,9 @@ function Contact() {
           </a>
           <a href="https://github.com/SimchaSucot">
             <img className="img" src={imgGithub} alt="Github" />
+          </a>
+          <a href="tel:+972508726544">
+            <img className="img"src={imgPhone} alt="Phone" />
           </a>
         </div>
       </div>

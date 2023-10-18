@@ -28,10 +28,10 @@
   .img {
     height: 2.5em;
     margin: 2px;
-    padding: 15px;
+    padding: 8px;
     border-radius: 25px;
   }
   #fixedButton {
-    left: -15px;
+    left: -5px;
   }
 }
