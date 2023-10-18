@@ -19,7 +19,7 @@ function ProgrammingLanguages(){
                 <img src={node} alt="node" />
                 <img src={react} alt="react" />
                 <img src={c} alt="c#" />
-                <h3>End more...</h3>
+                <h3>And more...</h3>
             </div>
         </div>
     )
