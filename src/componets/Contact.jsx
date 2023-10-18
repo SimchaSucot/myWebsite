@@ -1,7 +1,7 @@
 import "./Contact.css";
 import imgWhatsApp from "/whatsApp.png";
 import imgLinkedin from "/linkedin-icon.png";
-import imgGmail from "/gmail_icon.png";
+import imgEmail from "/email_icon.png";
 import imgGithub from "/github_icon.png";
 
 function Contact() {
@@ -16,8 +16,8 @@ function Contact() {
           <a href="https://www.linkedin.com/in/simcha-sucot-935a9b263/">
             <img className="img" src={imgLinkedin} alt="Linkedin" />
           </a>
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=simchasucot@gmail.com">
-            <img className="img gmail" src={imgGmail} alt="Gmail" />
+          <a href="mailto:simchasucot@gmail.com">
+            <img className="img" src={imgEmail} alt="Gmail" />
           </a>
           <a href="https://github.com/SimchaSucot">
             <img className="img" src={imgGithub} alt="Github" />

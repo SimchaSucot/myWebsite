@@ -1,7 +1,6 @@
 .containerEducation {
   color: rgba(93, 22, 22, 0.726);
   display: flex;
-  /* min-height: 100%; */
   flex-wrap: wrap;
   margin: 45px;
 }

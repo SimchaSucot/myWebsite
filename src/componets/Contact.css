@@ -26,11 +26,10 @@
     background-color: rgba(255, 0, 140, 0.352);
   }
   .img {
-    height: 2em;
+    height: 2.5em;
     margin: 2px;
-  }
-  .gmail{
-    display: none;
+    padding: 15px;
+    border-radius: 25px;
   }
   #fixedButton {
     left: -15px;

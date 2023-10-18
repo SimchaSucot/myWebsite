@@ -48,6 +48,6 @@
   .name {
     font-size: 30px;
     color: rgb(222, 11, 176);
-    -webkit-text-stroke: 0ץ5px #f5f5f5;
+    -webkit-text-stroke: 0.5px #f5f5f5;
   }
 }
