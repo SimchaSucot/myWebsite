@@ -14,7 +14,7 @@
   min-width: 280px;
 
   border: solid 2px rgb(255, 0, 98);
-  border-radius: 25px; 
+  border-radius: 25px;
   text-align: left;
 
   transition: transform 0.5s ease-in-out;
@@ -27,12 +27,12 @@
   color: rgba(93, 22, 22, 0.358);
 }
 
-@media (max-width: 600px){
-  .containerEducation{
+@media (max-width: 600px) {
+  .containerEducation {
     margin: 10px;
   }
-  .education{
+  .education {
     background-color: rgba(209, 22, 153, 0.089);
-    border:solid rgb(113, 4, 164) 1px;
+    border: solid rgb(113, 4, 164) 1px;
   }
 }
