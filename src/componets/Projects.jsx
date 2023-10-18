@@ -11,8 +11,9 @@ function Projects() {
           to read the code: <a href="https://github.com/SimchaSucot/myWebsite">Click here</a>
         </div>
         <div className="project">
-          Soon I will upload here the plans and projects with a detailed
-          explanation
+        <h3>memory Game in Python</h3>
+        I will post a more detailed explanation about the game later<br />
+        to read the code: <a href="https://github.com/SimchaSucot/memoryGame">Click here</a>
         </div>
         <div className="project">
           Soon I will upload here the plans and projects with a detailed
