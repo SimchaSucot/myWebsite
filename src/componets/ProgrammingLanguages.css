@@ -22,6 +22,7 @@ img {
 
 @media (max-width: 600px) {
   .box {
+    margin-bottom: 100px;
     border: solid rgba(133, 20, 88, 0.916);
     box-shadow: rgba(201, 25, 151, 0.543) 0px 10px 100px;
   }
