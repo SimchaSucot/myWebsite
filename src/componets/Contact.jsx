@@ -10,7 +10,7 @@ function Contact() {
     <>
       <div className="containerContact">
         <h1>⇓ Contact me ⇓</h1>
-        <div>
+        <div className="links">
           <a href="https://api.whatsapp.com/send?phone=9720508726544&text=%D7%94%D7%99%D7%99" target="_blank">
             <img className="img" src={imgWhatsApp} alt="WhatsApp" />
           </a>

@@ -31,11 +31,10 @@ function Projects() {
           <br />
           <br />
           to read the code:
-          <a href="https://github.com/SimchaSucot/weather">Click here</a>
-          <br />
+          <a href="https://github.com/SimchaSucot/weather" target="_blank">Click here</a>
           <br />
           enter the page:
-          <a href="https://simchasucot.github.io/weather/">Click here</a>
+          <a href="https://simchasucot.github.io/weather/" target="_blank">Click here</a>
         </div>
         <div className="project">
           Soon I will upload here the plans and projects with a detailed
