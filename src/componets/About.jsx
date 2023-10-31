@@ -4,12 +4,19 @@ function About() {
     <div className="about">
       <h1>About Me:</h1>
       <h2 className="txtAbout">
-        I have qualifications in various fields of study, curious to learn, with
-        the ability to analyze, think independently and express myself. <br /><br />
-        As part of my professional experience, I discovered initiative and creativity,
-        the ability to integrate well in teamwork and excellent human relations. <br /><br />
-        I have high motivation and willpower, and strive to integrate for the
-        long term.
+        I possess a wide range of expertise across various
+        technology fields and have a natural curiosity for learning. My
+        analytical skills enable me to think independently and articulate my
+        ideas effectively.
+        <br />
+        <br />
+        Throughout my professional journey, I have demonstrated a proactive and
+        creative approach, showcasing my ability to work seamlessly within
+        diverse teams and cultivate strong interpersonal relationships.
+        <br />
+        <br />
+        I am highly motivated and resilient, continuously striving for
+        long-term integration and success.
       </h2>
     </div>
   );
