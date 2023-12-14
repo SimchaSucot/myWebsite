@@ -16,7 +16,22 @@ function Projects() {
           </a>
         </div>
         <div className="project">
-          <h3>memory Game in Python</h3>
+          <h3>Chat (with socket)</h3>
+          Later I will upload a more detailed explanation here
+          <br />
+          <br />
+          to read the code:
+          <a href="https://github.com/SimchaSucot/Chat_socket" target="_blank">
+            Click here
+          </a>
+          <br />
+          enter the page:
+          <a href="https://simchasucot.github.io/Chat_socket/" target="_blank">
+            Click here
+          </a>
+        </div>
+        <div className="project">
+          <h3>Memory Game in Python</h3>
           I will post a more detailed explanation about the game later
           <br />
           <br />
@@ -26,19 +41,19 @@ function Projects() {
           </a>
         </div>
         <div className="project">
-          <h3>weather site</h3>
+          <h3>Weather site</h3>
           Later I will upload a more detailed explanation here
           <br />
           <br />
           to read the code:
-          <a href="https://github.com/SimchaSucot/weather" target="_blank">Click here</a>
+          <a href="https://github.com/SimchaSucot/weather" target="_blank">
+            Click here
+          </a>
           <br />
           enter the page:
-          <a href="https://simchasucot.github.io/weather/" target="_blank">Click here</a>
-        </div>
-        <div className="project">
-          Soon I will upload here the plans and projects with a detailed
-          explanation
+          <a href="https://simchasucot.github.io/weather/" target="_blank">
+            Click here
+          </a>
         </div>
       </div>
     </>
