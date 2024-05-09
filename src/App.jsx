@@ -6,8 +6,10 @@ import ProgrammingLanguages from "./componets/ProgrammingLanguages";
 import Projects from "./componets/Projects";
 import Contact from "./componets/Contact";
 import Footer from "./componets/Footer";
+import Consol_my_status from "./componets/Consol_my_status";
 
 function App() {
+  Consol_my_status()
   return (
     <>
       <Header />
