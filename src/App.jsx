@@ -10,6 +10,7 @@ import Consol_my_status from "./componets/Consol_my_status";
 
 function App() {
   Consol_my_status()
+  console.log("wwwwwwwwwwww");
   return (
     <>
       <Header />
